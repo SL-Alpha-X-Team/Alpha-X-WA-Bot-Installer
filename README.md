@@ -48,29 +48,29 @@ the user is responsible.
 <p align="center"> 
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code?label=Fork&style=social">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
+    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code?style=social">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code">
-    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
+    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code?color=purple&label=Lisance&style=plastic">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code">
-    <img src="https://img.shields.io/github/languages/top/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
+    <img src="https://img.shields.io/github/languages/top/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code">
+  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
     <img src="https://img.shields.io/static/v1?label=Author&message=AlphaXteam&color=purple&style=plastic">
 
   </a>
@@ -87,7 +87,7 @@ the user is responsible.
 ### `• Get QR Code Using Repl.it ♻️`
 > Need a **PC** for get qr and need a **PHONE** to scan the qr.
 
-[![Run on Repl.it](https://repl.it/badge/github/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code)](https://replit.com/@AlphaXteam/Alpha-X-Bot-QR)
+[![Run on Repl.it](https://repl.it/badge/github/SL-Alpha-X-Team/Alpha-X-WA-Bot)](https://replit.com/@AlphaXteam/Alpha-X-Bot-QR)
 
 ### `• For Termux Users 📲 [ RUN THIS CODE ON TERMUX ] 👇`
 > Need **2 PHONES** , 1 for get qr & other one for scan the qr.
@@ -98,15 +98,15 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer)
 
 ---
 
 <h2> 🔱 Hard Method 🔱 </h2>
 
 ```sh
-$ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Code.git
-$ cd Alpha-X-WA-Bot-Code
+$ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot.git
+$ cd Alpha-X-WA-Bot
 $ npm i
 $ nano config.env
 // Create Config.env and edit it. 🚫
