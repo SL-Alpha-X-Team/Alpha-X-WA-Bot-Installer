@@ -34,7 +34,7 @@
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "༺🚀 Mᴀᴅᴇ Bʏ Ａｌｐｈａ-Ｘ 🔮࿐"
+            "value": "༺🚀 Mᴀᴅᴇ Bʏ Ａｌｐｈａ-Ｘ ❄️࿐"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
@@ -49,12 +49,12 @@
         "COMMAND_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with commands.",
             "required": false,
-            "value": "❄️"
+            "value": "🪀"
         },
         "DESC_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with discriptions.",
             "required": false,
-            "value": "🧧"
+            "value": "✨️"
         },
         "WARN_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with warnings.",
@@ -84,7 +84,7 @@
         "BIO_NAME": {
             "description": "Customizable Auto Bio Name Message!, type a name ot somthing to show with auto bio.",
             "required": false,
-            "value": "━──🔥──╮• Ａｌｐｈａ-Ｘ •╭──🔥──━"
+            "value": "━──❄️──╮• Ａｌｐｈａ-Ｘ •╭──❄️──━"
        },
         "USER_NAME": {
             "description": "Enter your name here.",
@@ -94,7 +94,7 @@
         "DOWNLOAD_SONG": {
             "description": "Customizable downloading song Message!.",
             "required": false,
-            "value": "*🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 📥"
+            "value": "*❄️ 🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 📥"
        },
         "DOWNLOAD_SONG_PIC": {
             "description": "Customizable downloading song Message PICTURE! tipe a link of a pic.",
@@ -104,17 +104,17 @@
         "UPLOAD_SONG": {
             "description": "Customizable uploading song Message!.",
             "required": false,
-            "value": "*🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 📤"
+            "value": "*❄️ 🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 📤"
        },
         "DOWNLOAD_VIDEO": {
             "description": "Customizable downloading yt video Message!.",
             "required": false,
-            "value": "*🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 📥"
+            "value": "*❄️ 🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 📥"
        },
         "UPLOAD_VIDEO": {
             "description": "Customizable uploading yt video Message!.",
             "required": false,
-            "value": "*🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 📤"
+            "value": "*❄️ 🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 📤"
        },
         "DOWNLOAD_VIDEO_PIC": {
             "description": "Customizable downloading video Message PICTURE! tipe a link of a pic.",
@@ -124,7 +124,7 @@
         "BOT_NAME": {
             "description": "Customizable BOT NAME! Type a Name for your bot.",
             "required": false,
-            "value": "≪━─━─━─━─🛡️─━─━─━─━≫\n          *🛸 Ａｌｐｈａ-Ｘ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
+            "value": "≪━─━─━─━─🛡️─━─━─━─━≫\n          *❄️ Ａｌｐｈａ-Ｘ ❄️*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
        },
         "WELCOME_GIF": {
             "description": "Customizable Welcome Message GIF! Type a link of gif.",
