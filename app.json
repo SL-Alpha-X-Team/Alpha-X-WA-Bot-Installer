@@ -49,12 +49,12 @@
         "COMMAND_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with commands.",
             "required": false,
-            "value": "🪀"
+            "value": "❄️"
         },
         "DESC_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with discriptions.",
             "required": false,
-            "value": "✨️"
+            "value": "🧧"
         },
         "WARN_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with warnings.",
