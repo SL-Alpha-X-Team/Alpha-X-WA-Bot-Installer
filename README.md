@@ -110,6 +110,8 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ```sh
 $ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot.git
 $ cd Alpha-X-WA-Bot
+$ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer.git
+$ cd sdcard/Alpha-X-WA-Bot
 $ npm i
 $ nano config.env
 // Create Config.env and edit it. 🚫
