@@ -141,6 +141,16 @@
             "required": true,
             "value": "false"
        },
+        "ANTI_BADWORD": {
+            "description": "🚫️️ BAD WORDS Blocking System. If anyone send badword to group he was banded from group! ",
+            "required": true,
+            "value": "false"
+       },
+       "ANTI_BADWORD_KICK_MSG": {
+            "description": "Customizable BAD WORDS Blocking System kick msg.",
+            "required": false,
+            "value": "default"
+       },
         "BLOCK_LINK": {
             "description": "⚠️️ Link Blocking System. If anyone send link with ( **YOU GIVEN TO **BLOCK_LINK_A** & **BLOCK_LINK_B** ) to group he was banded from group! ",
             "required": true,
