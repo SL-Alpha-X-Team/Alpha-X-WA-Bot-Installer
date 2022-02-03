@@ -11,7 +11,7 @@
 
 <h1> 🔎 What is Alpha-X 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ☐
+**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
@@ -99,7 +99,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-5)
 
 > Click the logo to watch Bot tutorial video ✅
 
@@ -143,458 +143,458 @@ it may banned your account from whatsapp 🚫
 <summary><b><h1 align="center">Features 🔥 ==</h1></b></summary>
 <p align="left">
 
-`🎁 Command:` install <br>
-`☐ Description:` Install external plugins. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` install <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Install external plugins. <br>
 `⚠️️ Warn:` Get plugins only from https://t.me/AlphaXplugin.
 
-`🎁 Command:` plugin<br>
-`☐ Description:` Shows the plugins you have installed. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` plugin<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows the plugins you have installed. 
 
-`🎁 Command:` remove<br>
-`☐ Description:` Removes the plugin. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` remove<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Removes the plugin. 
 
-`🎁 Command:` admin<br>
-`☐ Description:` Admin menu. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` admin<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Admin menu. 
 
-`🎁 Command:` ban <br>
-`☐ Description:` Ban someone in the group. Reply to message or tag a person to use command. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` ban <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Ban someone in the group. Reply to message or tag a person to use command. 
 
-`🎁 Command:` gname <br>
-`☐ Description:` Change group name. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` gname <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Change group name. 
 
-`🎁 Command:` gdesc<br>
-`☐ Description:` Change group discription. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` gdesc<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Change group discription. 
 
-`🎁 Command:` dis <br>
-`☐ Description:`  Disappearing message on/off. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` dis <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ`  Disappearing message on/off. <br>
 `💡 Example:` .dis on/off
 
-`🎁 Command:` reset<br>
-`☐ Description:` Reset group invitation link. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` reset<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Reset group invitation link. 
 
-`🎁 Command:` gpp<br>
-`☐ Description:` Set group profile picture 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` gpp<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Set group profile picture 
 
-`🎁 Command:` add<br>
-`☐ Description:` Adds someone to the group. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` add<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Adds someone to the group. 
 
-`🎁 Command:` promote <br>
-`☐ Description:` Makes any person an admin. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` promote <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Makes any person an admin. 
 
-`🎁 Command:` demote <br>
-`☐ Description:` Takes the authority of any admin. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` demote <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Takes the authority of any admin. 
 
-`🎁 Command:` mute <br>
-`☐ Description:` Mute the group chat. Only the admins can send a message.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` mute <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Mute the group chat. Only the admins can send a message.
 ⌨️ Example: .mute & .mute 5m etc 
 
-`🎁 Command:` unmute <br>
-`☐ Description:` Unmute the group chat. Anyone can send a message. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` unmute <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Unmute the group chat. Anyone can send a message. 
 
-`🎁 Command:` invite <br>
-`☐ Description:` Provides the group's invitation link. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` invite <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Provides the group's invitation link. 
 
-`🎁 Command:` afk <br>
-`☐ Description:` It makes you AFK - Away From Keyboard. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` afk <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It makes you AFK - Away From Keyboard. 
 
-`🎁 Command:` art pack<br>
-`☐ Description:` Beautifull artpack with more than 100 messages. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` art pack<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Beautifull artpack with more than 100 messages. 
 
-`🎁 Command:` aspm <br>
-`☐ Description:` This command for any emergency situation about any kind of WhatsApp SPAM in Group 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` aspm <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` This command for any emergency situation about any kind of WhatsApp SPAM in Group 
 
-`🎁 Command:` alag <br>
-`☐ Description:` This command for any emergency situation about any kind of WhatsApp SPAM in Chat 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` alag <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` This command for any emergency situation about any kind of WhatsApp SPAM in Chat 
 
-`🎁 Command:` linkblock <br>
-`☐ Description:` Activates the block link tool. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` linkblock <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Activates the block link tool. <br>
 `💡 Example:` .linkblock on / off
 
-`🎁 Command:` CrAsH<br>
-`☐ Description:` send BUG VIRUS to group. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` CrAsH<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` send BUG VIRUS to group. 
 
-`🎁 Command:` CrAsH high<br>
-`☐ Description:` send BUG VIRUS to group untill you stop. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` CrAsH high<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` send BUG VIRUS to group untill you stop. 
 
-`🎁 Command:` -carbon
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` -carbon
 
-`🎁 Command:` clear<br>
-`☐ Description:` Clears all the messages from the chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` clear<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Clears all the messages from the chat. 
 
-`🎁 Command:` qr <br>
-`☐ Description:` To create an qr code from the word you give. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` qr <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` To create an qr code from the word you give. 
 
-`🎁 Command:` bcode <br>
-`☐ Description:` To create an barcode from the word you give. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` bcode <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` To create an barcode from the word you give. 
 
-`🎁 Command:` compliment<br>
-`☐ Description:` It sends complimentry sentenses. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` compliment<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It sends complimentry sentenses. 
 
-`🎁 Command:` toaudio<br>
-`☐ Description:` Converts video to sound. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` toaudio<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Converts video to sound. 
 
-`🎁 Command:` toimage<br>
-`☐ Description:` Converts the sticker to a photo. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` toimage<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Converts the sticker to a photo. 
 
-`🎁 Command:` tovideo<br>
-`☐ Description:` Converts animated stickers to video. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tovideo<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Converts animated stickers to video. 
 
-`🎁 Command:` deepai<br>
-`☐ Description:` Runs the most powerful artificial intelligence tools using artificial neural networks. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` deepai<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Runs the most powerful artificial intelligence tools using artificial neural networks. 
 
-`🎁 Command:` details<br>
-`☐ Description:` Displays metadata data of group or person. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` details<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Displays metadata data of group or person. 
 
-`🎁 Command:` dict <br>
-`☐ Description:` Use it as a dictionary.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` dict <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Use it as a dictionary.
 Eg: .dict enUS;lead
  For supporting languages send •.lngcode• 
 
-`🎁 Command:` dst<br>
-`☐ Description:` Download status you repled. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` dst<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Download status you repled. 
 
-`🎁 Command:` emedia<br>
-`☐ Description:` It is a plugin with more than 25 media tools. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` emedia<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It is a plugin with more than 25 media tools. 
 
-`🎁 Command:` emoji <br>
-`☐ Description:` You can get Emoji as image. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` emoji <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` You can get Emoji as image. 
 
-`🎁 Command:` print <br>
-`☐ Description:` Prints the inside of the file on the server. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` print <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Prints the inside of the file on the server. 
 
-`🎁 Command:` bashmedia <br>
-`☐ Description:` Sends audio, video and photos inside the server. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` bashmedia <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends audio, video and photos inside the server. <br>
 `💡 Example:` video.mp4 && media/gif/pic.mp4
 
-`🎁 Command:` addserver<br>
-`☐ Description:` Uploads image, audio or video to the server. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` addserver<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Uploads image, audio or video to the server. 
 
-`🎁 Command:` term <br>
-`☐ Description:` Allows to run the command on the server's shell. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` term <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Allows to run the command on the server's shell. 
 
-`🎁 Command:` mediainfo<br>
-`☐ Description:` Shows the technical information of the replied video. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` mediainfo<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows the technical information of the replied video. 
 
-`🎁 Command:` pmsend <br>
-`☐ Description:` Sends a private message to the replied person. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pmsend <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends a private message to the replied person. 
 
-`🎁 Command:` pmttssend <br>
-`☐ Description:` Sends a private voice message to the respondent. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pmttssend <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends a private voice message to the respondent. 
 
-`🎁 Command:` ffmpeg <br>
-`☐ Description:` Applies the desired ffmpeg filter to the video.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` ffmpeg <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Applies the desired ffmpeg filter to the video.
 ⌨️ Example: .ffmpeg fade=in:0:30 
 
-`🎁 Command:` filter <br>
-`☐ Description:` It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` filter <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list. 
 
-`🎁 Command:` stop <br>
-`☐ Description:` Stops the filter you added previously. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` stop <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Stops the filter you added previously. 
 
-`🎁 Command:` bgmlist<br>
-`☐ Description:` Bgm List. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` bgmlist<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Bgm List. 
 
-`🎁 Command:` github <br>
-`☐ Description:` It Send Github User Data. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` github <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It Send Github User Data. <br>
 `💡 Example:` .github WhatsApp
 
-`🎁 Command:` welcome<br>
-`☐ Description:` It sets the welcome message. If you leave it blank it shows the welcome message. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` welcome<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It sets the welcome message. If you leave it blank it shows the welcome message. 
 
-`🎁 Command:` goodbye<br>
-`☐ Description:` Sets the goodbye message. If you leave blank, it show's the goodbye message. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` goodbye<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sets the goodbye message. If you leave blank, it show's the goodbye message. 
 
-`🎁 Command:` help<br>
-`☐ Description:` Gives information about using the bot from the Help menu. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` help<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Gives information about using the bot from the Help menu. 
 
-`🎁 Command:` varset <br>
-`☐ Description:` Changes the text of modules like alive, afk etc.. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` varset <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Changes the text of modules like alive, afk etc.. 
 
-`🎁 Command:` restart<br>
-`☐ Description:` Restart bot.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` restart<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Restart bot.
 
-`🎁 Command:` poweroff<br>
-`☐ Description:` Shutdown bot.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` poweroff<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shutdown bot.
 
-`🎁 Command:` dyno<br>
-`☐ Description:` Check heroku dyno usage 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` dyno<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Check heroku dyno usage 
 
-`🎁 Command:` setvar <br>
-`☐ Description:` Set heroku config var 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` setvar <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Set heroku config var 
 
-`🎁 Command:` delvar <br>
-`☐ Description:` Delete heroku config var 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` delvar <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Delete heroku config var 
 
-`🎁 Command:` getvar <br>
-`☐ Description:` Get heroku config var 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` getvar <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get heroku config var 
 
-`🎁 Command:` hpmod <br>
-`☐ Description:` To get mod apps info. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` hpmod <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` To get mod apps info. 
 
-`🎁 Command:` insult<br>
-`☐ Description:` It gives random insults. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` insult<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It gives random insults. 
 
-`🎁 Command:` locate<br>
-`☐ Description:` It send your location. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` locate<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It send your location. <br>
 `⚠️️ Warn:` Please open your location before using command!
 
-`🎁 Command:` logmsg<br>
-`☐ Description:` Saves the message you reply to your private number. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` logmsg<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Saves the message you reply to your private number. <br>
 `⚠️️ Warn:` Does not support animated stickers!
 
-`🎁 Command:` logomaker<br>
-`☐ Description:` Shows logomaker tools with unlimited access. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` logomaker<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows logomaker tools with unlimited access. 
 
-`🎁 Command:` meme <br>
-`☐ Description:` Photo memes you replied to. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` meme <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Photo memes you replied to. 
 
-`🎁 Command:` movie <br>
-`☐ Description:` Shows movie info. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` movie <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows movie info. 
 
-`🎁 Command:` neko<br>
-`☐ Description:` Replied messages will be added to nekobin.com. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` neko<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Replied messages will be added to nekobin.com. 
 
-`🎁 Command:` song <br>
-`☐ Description:` Uploads the song you wrote. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` song <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Uploads the song you wrote. 
 
-`🎁 Command:` video <br>
-`☐ Description:` Downloads video from YouTube. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` video <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Downloads video from YouTube. 
 
-`🎁 Command:` fb <br>
-`☐ Description:` Download video from facebook. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` fb <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Download video from facebook. 
 
-`🎁 Command:` tiktok <br>
-`☐ Description:` Download tiktok video. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tiktok <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Download tiktok video. 
 
-`🎁 Command:` notes<br>
-`☐ Description:` Shows all your existing notes. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` notes<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows all your existing notes. 
 
-`🎁 Command:` save <br>
-`☐ Description:` Reply a message and type .save or just use .save <Your note> without replying 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` save <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Reply a message and type .save or just use .save <Your note> without replying 
 
-`🎁 Command:` deleteNotes<br>
-`☐ Description:` Deletes *all* your saved notes. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` deleteNotes<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Deletes *all* your saved notes. 
 
-`🎁 Command:` ocr <br>
-`☐ Description:` Reads the text on the photo you have replied. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` ocr <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Reads the text on the photo you have replied. 
 
-`🎁 Command:` pinimg <br>
-`☐ Description:` Downloas images from Pinterest. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pinimg <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Downloas images from Pinterest. 
 
-`🎁 Command:` playst <br>
-`☐ Description:` Get app details from play store. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` playst <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get app details from play store. 
 
-`🎁 Command:` profile<br>
-`☐ Description:` Profile menu. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` profile<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Profile menu. 
 
-`🎁 Command:` getpp<br>
-`☐ Description:` Get pofile picture. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` getpp<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get pofile picture. 
 
-`🎁 Command:` setbio <br>
-`☐ Description:` Set your about. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` setbio <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Set your about. 
 
-`🎁 Command:` getbio<br>
-`☐ Description:` Get user about. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` getbio<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get user about. 
 
-`🎁 Command:` archive<br>
-`☐ Description:` Archive chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` archive<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Archive chat. 
 
-`🎁 Command:` unarchive<br>
-`☐ Description:` Unarchive chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` unarchive<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Unarchive chat. 
 
-`🎁 Command:` pin<br>
-`☐ Description:` Archive chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pin<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Archive chat. 
 
-`🎁 Command:` unpin<br>
-`☐ Description:` Unarchive chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` unpin<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Unarchive chat. 
 
-`🎁 Command:` pp<br>
-`☐ Description:` Makes the profile photo what photo you reply. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pp<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Makes the profile photo what photo you reply. 
 
-`🎁 Command:` kickme<br>
-`☐ Description:` It kicks you from the group you are using it in. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` kickme<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It kicks you from the group you are using it in. 
 
-`🎁 Command:` block <br>
-`☐ Description:` Block user. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` block <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Block user. 
 
-`🎁 Command:` unblock <br>
-`☐ Description:` Unblock user. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` unblock <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Unblock user. 
 
-`🎁 Command:` jid <br>
-`☐ Description:` Giving user's JID. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` jid <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Giving user's JID. 
 
-`🎁 Command:` rdmore <br>
-`☐ Description:` Add readmore to your message >> Use # to get readmore. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` rdmore <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Add readmore to your message >> Use # to get readmore. 
 
-`🎁 Command:` removebg <br>
-`☐ Description:` Removes the background of the photos. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` removebg <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Removes the background of the photos. 
 
-`🎁 Command:` report <br>
-`☐ Description:` Sends reports to group admins. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` report <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends reports to group admins. 
 
-`🎁 Command:` roll<br>
-`☐ Description:` Roll dice randomly. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` roll<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Roll dice randomly. 
 
-`🎁 Command:` scam <br>
-`☐ Description:` Creates 5 minutes of fake actions. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` scam <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Creates 5 minutes of fake actions. 
 
-`🎁 Command:` scan <br>
-`☐ Description:` Checks whether the entered number is registered on WhatApp. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` scan <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Checks whether the entered number is registered on WhatApp. 
 
-`🎁 Command:` trt<br>
-`☐ Description:` It translates with Google Translate. You must reply any message. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` trt<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It translates with Google Translate. You must reply any message. <br>
 `💡 Example:` .trt en si (From English to Sinhala)
 
-`🎁 Command:` antilink <br>
-`☐ Description:` Activates the Antilink tool. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` antilink <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Activates the Antilink tool. <br>
 `💡 Example:` .antilink on / off
 
-`🎁 Command:` autobio <br>
-`☐ Description:` Add live clock to your bio! <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` autobio <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Add live clock to your bio! <br>
 `💡 Example:` .autobio on / off
 
-`🎁 Command:` detectlang<br>
-`☐ Description:` Guess the language of the replied message. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` detectlang<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Guess the language of the replied message. 
 
-`🎁 Command:` currency
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` currency
 
-`🎁 Command:` tts <br>
-`☐ Description:` It converts text to sound. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tts <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It converts text to sound. 
 
-`🎁 Command:` music <br>
-`☐ Description:` Uploads the song you wrote. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` music <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Uploads the song you wrote. 
 
-`🎁 Command:` smp3 <br>
-`☐ Description:` Get song as a mp3 documet file 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` smp3 <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get song as a mp3 documet file 
 
-`🎁 Command:` mp4 <br>
-`☐ Description:` Downloads video from YouTube. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` mp4 <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Downloads video from YouTube. 
 
-`🎁 Command:` yt <br>
-`☐ Description:` It searchs on YouTube. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` yt <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It searchs on YouTube. 
 
-`🎁 Command:` wiki <br>
-`☐ Description:` Searches query on Wikipedia. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` wiki <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Searches query on Wikipedia. 
 
-`🎁 Command:` img <br>
-`☐ Description:` Searches for related pics on Google. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` img <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Searches for related pics on Google. 
 
-`🎁 Command:` lyric <br>
-`☐ Description:` Finds the lyrics of the song. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` lyric <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Finds the lyrics of the song. 
 
-`🎁 Command:` covid <br>
-`☐ Description:` Shows the daily and overall covid table of more than 15 countries. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` covid <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows the daily and overall covid table of more than 15 countries. 
 
-`🎁 Command:` ss <br>
-`☐ Description:` Takes a screenshot from the page in the given link. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` ss <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Takes a screenshot from the page in the given link. 
 
-`🎁 Command:` simi <br>
-`☐ Description:` Are you bored? ... Fool around with SimSimi. ... World first popular Chatbot for daily conversation. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` simi <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Are you bored? ... Fool around with SimSimi. ... World first popular Chatbot for daily conversation. 
 
-`🎁 Command:` spdf <br>
-`☐ Description:` Site to pdf file. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` spdf <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Site to pdf file. 
 
-`🎁 Command:` insta <br>
-`☐ Description:` Downloads videos or photos from Instagram. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` insta <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Downloads videos or photos from Instagram. 
 
-`🎁 Command:` animesay <br>
-`☐ Description:` It writes the text inside the banner the anime girl is holding 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` animesay <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It writes the text inside the banner the anime girl is holding 
 
-`🎁 Command:` changesay <br>
-`☐ Description:` Turns the text into the change my mind poster. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` changesay <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Turns the text into the change my mind poster. 
 
-`🎁 Command:` trumpsay <br>
-`☐ Description:` Converts the text to Trump's tweet. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` trumpsay <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Converts the text to Trump's tweet. 
 
-`🎁 Command:` audio spam<br>
-`☐ Description:` Sends the replied audio as spam. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` audio spam<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends the replied audio as spam. 
 
-`🎁 Command:` foto spam<br>
-`☐ Description:` Sends the replied photo as spam. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` foto spam<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends the replied photo as spam. 
 
-`🎁 Command:` sticker spam<br>
-`☐ Description:` Convert the replied photo or video to sticker and send it as spam. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` sticker spam<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Convert the replied photo or video to sticker and send it as spam. 
 
-`🎁 Command:` vid spam
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` vid spam
 
-`🎁 Command:` killspam<br>
-`☐ Description:` Stops spam command. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` killspam<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Stops spam command. 
 
-`🎁 Command:` spam <br>
-`☐ Description:` It spam until you stop it.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` spam <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It spam until you stop it.
 ⌨️ Example: .spam test 
 
-`🎁 Command:` spotify <br>
-`☐ Description:` Get music details from spotify. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` spotify <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get music details from spotify. 
 
-`🎁 Command:` st<br>
-`☐ Description:` It converts your replied photo or video to sticker. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` st<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It converts your replied photo or video to sticker. 
 
-`🎁 Command:` sweather<br>
-`☐ Description:` Gives you the weekly interpretations of space weather observations provided by the Space Weather Research Center (SWRC) for a p. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` sweather<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Gives you the weekly interpretations of space weather observations provided by the Space Weather Research Center (SWRC) for a p. 
 
-`🎁 Command:` alive <br>
-`☐ Description:` Does bot work? 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` alive <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Does bot work? 
 
-`🎁 Command:` sysd<br>
-`☐ Description:` Shows the system properties. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` sysd<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows the system properties. 
 
-`🎁 Command:` tagadmin
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tagadmin
 
-`🎁 Command:` tg <br>
-`☐ Description:` Tags everyone in the group. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tg <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Tags everyone in the group. 
 
-`🎁 Command:` pmall<br>
-`☐ Description:` Sends the replied message to all members in the group. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` pmall<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Sends the replied message to all members in the group. 
 
-`🎁 Command:` tblend <br>
-`☐ Description:` Applies the selected TBlend effect to videos. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` tblend <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Applies the selected TBlend effect to videos. 
 
-`🎁 Command:` link<br>
-`☐ Description:` The image you reply to uploads to telegra.ph and provides its link. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` link<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` The image you reply to uploads to telegra.ph and provides its link. 
 
-`🎁 Command:` unvoice<br>
-`☐ Description:` Converts audio to sound recording. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` unvoice<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Converts audio to sound recording. 
 
-`🎁 Command:` up<br>
-`☐ Description:` Checks the update your bot. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` up<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Checks the update your bot. 
 
-`🎁 Command:` up now<br>
-`☐ Description:` It makes updates. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` up now<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It makes updates. 
 
-`🎁 Command:` voicy<br>
-`☐ Description:` It converts audio to text. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` voicy<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It converts audio to text. 
 
-`🎁 Command:` wp<br>
-`☐ Description:` It sends high resolution wallpapers. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` wp<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` It sends high resolution wallpapers. 
 
-`🎁 Command:` wame <br>
-`☐ Description:` Get a link to the user chat. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` wame <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Get a link to the user chat. 
 
-`🎁 Command:` weather <br>
-`☐ Description:` Shows the weather. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` weather <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shows the weather. 
 
-`🎁 Command:` speedtest <br>
-`☐ Description:` Measures Download and Upload speed. <br>
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` speedtest <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Measures Download and Upload speed. <br>
 `💡 Example:` speedtest user // speedtest server
 
-`🎁 Command:` ping<br>
-`☐ Description:` Measures your ping. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` ping<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Measures your ping. 
 
-`🎁 Command:` short <br>
-`☐ Description:` Shorten the long link. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` short <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Shorten the long link. 
 
-`🎁 Command:` calc <br>
-`☐ Description:` Performs simple math operations. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` calc <br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Performs simple math operations. 
 
-`🎁 Command:` xapi<br>
-`☐ Description:` Xteam API key info. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` xapi<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Xteam API key info. 
 
-`🎁 Command:` glowtext<br>
-`☐ Description:` send random glowtext by given word > with 140+ beautifull font styles.
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` glowtext<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` send random glowtext by given word > with 140+ beautifull font styles.
 
-`🎁 Command:` quote<br>
-`☐ Description:` Send random quotes. 
+`📜 ᴄᴏᴍᴍᴀɴᴅ:` quote<br>
+`📍 ᴅᴇsᴄʀɪᴘᴛɪᴏɴ` Send random quotes. 
 
 
 >🤩 New features comming soon...
