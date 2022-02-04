@@ -9,13 +9,13 @@
 
 <a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is  🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Qeen flitza ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
-<h1> <💎> Alpha-X <💎> </h1>
+<h1> <💎> Qeen flitza <💎> </h1>
 
 ```
 Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
@@ -411,189 +411,189 @@ Eg: .dict enUS;lead
 `📜 command:` pp<br>
 `📍 description:` Makes the profile photo what photo you reply. 
 
-`📜 command:` kickme<br>
+`🔮 command:` kickme<br>
 `📍 description:` It kicks you from the group you are using it in. 
 
-`📜 command:` block <br>
+`🔮 command:` block <br>
 `📍 description:` Block user. 
 
-`📜 command:` unblock <br>
+`🔮 command:` unblock <br>
 `📍 description:` Unblock user. 
 
-`📜 command:` jid <br>
+`🔮 command:` jid <br>
 `📍 description:` Giving user's JID. 
 
-`📜 command:` rdmore <br>
+`🔮 command:` rdmore <br>
 `📍 description:` Add readmore to your message >> Use # to get readmore. 
 
-`📜 command:` removebg <br>
+`🔮 command:` removebg <br>
 `📍 description:` Removes the background of the photos. 
 
-`📜 command:` report <br>
+`🔮 command:` report <br>
 `📍 description:` Sends reports to group admins. 
 
-`📜 command:` roll<br>
+`🔮 command:` roll<br>
 `📍 description:` Roll dice randomly. 
 
-`📜 command:` scam <br>
+`🔮 command:` scam <br>
 `📍 description:` Creates 5 minutes of fake actions. 
 
-`📜 command:` scan <br>
+`🔮 command:` scan <br>
 `📍 description:` Checks whether the entered number is registered on WhatApp. 
 
-`📜 command:` trt<br>
+`🔮 command:` trt<br>
 `📍 description:` It translates with Google Translate. You must reply any message. <br>
 `💡 Example:` .trt en si (From English to Sinhala)
 
-`📜 command:` antilink <br>
+`🔮 command:` antilink <br>
 `📍 description:` Activates the Antilink tool. <br>
 `💡 Example:` .antilink on / off
 
-`📜 command:` autobio <br>
+`🔮 command:` autobio <br>
 `📍 description:` Add live clock to your bio! <br>
 `💡 Example:` .autobio on / off
 
-`📜 command:` detectlang<br>
+`🔮 command:` detectlang<br>
 `📍 description:` Guess the language of the replied message. 
 
-`📜 command:` currency
+`🔮 command:` currency
 
-`📜 command:` tts <br>
+`🔮 command:` tts <br>
 `📍 description:` It converts text to sound. 
 
-`📜 command:` music <br>
+`🔮 command:` music <br>
 `📍 description:` Uploads the song you wrote. 
 
-`📜 command:` smp3 <br>
+`🔮 command:` smp3 <br>
 `📍 description:` Get song as a mp3 documet file 
 
-`📜 command:` mp4 <br>
+`🔮 command:` mp4 <br>
 `📍 description:` Downloads video from YouTube. 
 
-`📜 command:` yt <br>
+`🔮 command:` yt <br>
 `📍 description:` It searchs on YouTube. 
 
-`📜 command:` wiki <br>
+`🔮 command:` wiki <br>
 `📍 description:` Searches query on Wikipedia. 
 
-`📜 command:` img <br>
+`🔮 command:` img <br>
 `📍 description:` Searches for related pics on Google. 
 
-`📜 command:` lyric <br>
+`🔮 command:` lyric <br>
 `📍 description:` Finds the lyrics of the song. 
 
-`📜 command:` covid <br>
+`🔮 command:` covid <br>
 `📍 description:` Shows the daily and overall covid table of more than 15 countries. 
 
-`📜 command:` ss <br>
+`🔮 command:` ss <br>
 `📍 description:` Takes a screenshot from the page in the given link. 
 
-`📜 command:` simi <br>
+`🔮 command:` simi <br>
 `📍 description:` Are you bored? ... Fool around with SimSimi. ... World first popular Chatbot for daily conversation. 
 
-`📜 command:` spdf <br>
+`🔮 command:` spdf <br>
 `📍 description:` Site to pdf file. 
 
-`📜 command:` insta <br>
+`🔮 command:` insta <br>
 `📍 description:` Downloads videos or photos from Instagram. 
 
-`📜 command:` animesay <br>
+`🔮 command:` animesay <br>
 `📍 description:` It writes the text inside the banner the anime girl is holding 
 
-`📜 command:` changesay <br>
+`🔮 command:` changesay <br>
 `📍 description:` Turns the text into the change my mind poster. 
 
-`📜 command:` trumpsay <br>
+`🔮 command:` trumpsay <br>
 `📍 description:` Converts the text to Trump's tweet. 
 
-`📜 command:` audio spam<br>
+`🔮 command:` audio spam<br>
 `📍 description:` Sends the replied audio as spam. 
 
-`📜 command:` foto spam<br>
+`🔮 command:` foto spam<br>
 `📍 description:` Sends the replied photo as spam. 
 
-`📜 command:` sticker spam<br>
+`🔮 command:` sticker spam<br>
 `📍 description:` Convert the replied photo or video to sticker and send it as spam. 
 
-`📜 command:` vid spam
+`🔮 command:` vid spam
 
-`📜 command:` killspam<br>
+`🔮 command:` killspam<br>
 `📍 description:` Stops spam command. 
 
-`📜 command:` spam <br>
+`🔮 command:` spam <br>
 `📍 description:` It spam until you stop it.
 ⌨️ Example: .spam test 
 
-`📜 command:` spotify <br>
+`🔮 command:` spotify <br>
 `📍 description:` Get music details from spotify. 
 
-`📜 command:` st<br>
+`🔮 command:` st<br>
 `📍 description:` It converts your replied photo or video to sticker. 
 
-`📜 command:` sweather<br>
+`🔮 command:` sweather<br>
 `📍 description:` Gives you the weekly interpretations of space weather observations provided by the Space Weather Research Center (SWRC) for a p. 
 
-`📜 command:` alive <br>
+`🔮 command:` alive <br>
 `📍 description:` Does bot work? 
 
-`📜 command:` sysd<br>
+`🔮 command:` sysd<br>
 `📍 description:` Shows the system properties. 
 
-`📜 command:` tagadmin
+`🔮 command:` tagadmin
 
-`📜 command:` tg <br>
+`🔮 command:` tg <br>
 `📍 description:` Tags everyone in the group. 
 
-`📜 command:` pmall<br>
+`🔮 command:` pmall<br>
 `📍 description:` Sends the replied message to all members in the group. 
 
-`📜 command:` tblend <br>
+`🔮 command:` tblend <br>
 `📍 description:` Applies the selected TBlend effect to videos. 
 
-`📜 command:` link<br>
+`🔮 command:` link<br>
 `📍 description:` The image you reply to uploads to telegra.ph and provides its link. 
 
-`📜 command:` unvoice<br>
+`🔮 command:` unvoice<br>
 `📍 description:` Converts audio to sound recording. 
 
-`📜 command:` up<br>
+`🔮 command:` up<br>
 `📍 description:` Checks the update your bot. 
 
-`📜 command:` up now<br>
+`🔮 command:` up now<br>
 `📍 description:` It makes updates. 
 
-`📜 command:` voicy<br>
+`🔮 command:` voicy<br>
 `📍 description:` It converts audio to text. 
 
-`📜 command:` wp<br>
+`🔮 command:` wp<br>
 `📍 description:` It sends high resolution wallpapers. 
 
-`📜 command:` wame <br>
+`🔮 command:` wame <br>
 `📍 description:` Get a link to the user chat. 
 
-`📜 command:` weather <br>
+`🔮 command:` weather <br>
 `📍 description:` Shows the weather. 
 
-`📜 command:` speedtest <br>
+`🔮 command:` speedtest <br>
 `📍 description:` Measures Download and Upload speed. <br>
 `💡 Example:` speedtest user // speedtest server
 
-`📜 command:` ping<br>
+`🔮 command:` ping<br>
 `📍 description:` Measures your ping. 
 
-`📜 command:` short <br>
+`🔮 command:` short <br>
 `📍 description:` Shorten the long link. 
 
-`📜 command:` calc <br>
+`🔮 command:` calc <br>
 `📍 description:` Performs simple math operations. 
 
-`📜 command:` xapi<br>
+`🔮 command:` xapi<br>
 `📍 description:` Xteam API key info. 
 
-`📜 command:` glowtext<br>
+`🔮 command:` glowtext<br>
 `📍 description:` send random glowtext by given word > with 140+ beautifull font styles.
 
-`📜 command:` quote<br>
+`🔮 command:` quote<br>
 `📍 description:` Send random quotes. 
 
 
