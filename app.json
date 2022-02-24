@@ -1,6 +1,6 @@
 {
-    "name": "Alpha-X Whatsapp User Bot", 
-    "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
+    "name": "Alpha-v4;Whatsapp User Bot", 
+    "description": "🚀 Alpha-v4 project is bot for whatsapp, With enjoyable things and fun to use whatsapp;World first fully customizable bot for WhatsApp.",
     "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot",
@@ -44,7 +44,7 @@
         "EXTRA_MENU_MESSAGE": {
             "description": "Customizable EXTRA MENU MESSAGE! Type a message for show under the commands list menu >> extra menu.",
             "required": false,
-            "value": "ʀᴇᴀᴅ ᴛʜᴇ ɢᴜɪᴅᴇ 🍁 \n\n```Alpha-X Bot - Alpha Userbot is Open Source software open to development. \nThe user is responsible for all consequences that may arise from incorrect or misuse. \nSince it is an open source project, anyone can copy the software, add and remove,\nand use it in a way that they customize. In addition, plug-in support enables users to \ninstall their own plugins to the original software and use them as they wish.\nUsing the bot out of purpose will explicitly ban you.\nUsage is entirely the user's responsibility, Alpha Userbot is an \ninfrastructure only. Just as the operating system is not responsible \nfor the work done with the programs that are installed later, Alpha-X \nis not responsible for the usage purpose and method of the users.\nMarketing Alpha-X for money, making it available or having any material value\nıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise\nthe user is responsible.```"
+            "value": "ʀᴇᴀᴅ ᴛʜᴇ ɢᴜɪᴅᴇ 🍁 \n\n```Alpha-v4 Bot - Alpha Userbot is Open Source software open to development. \nThe user is responsible for all consequences that may arise from incorrect or misuse. \nSince it is an open source project, anyone can copy the software, add and remove,\nand use it in a way that they customize. In addition, plug-in support enables users to \ninstall their own plugins to the original software and use them as they wish.\nUsing the bot out of purpose will explicitly ban you.\nUsage is entirely the user's responsibility, Alpha Userbot is an \ninfrastructure only. Just as the operating system is not responsible \nfor the work done with the programs that are installed later, Alpha-v4 \nis not responsible for the usage purpose and method of the users.\nMarketing Alpha-v4 for money, making it available or having any material value\nıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise\nthe user is responsible.```"
         },
         "COMMAND_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with commands.",
@@ -84,7 +84,7 @@
         "BIO_NAME": {
             "description": "Customizable Auto Bio Name Message!, type a name ot somthing to show with auto bio.",
             "required": false,
-            "value": "</> 🔎 ʟᴇɢᴇɴᴅs ɴᴇᴠᴇʀ ᴅɪᴇ © ᴀʟᴘʜᴀ-x-ʙᴏᴛ 🌏 </>"
+            "value": "</> 🔎 ʟᴇɢᴇɴᴅs ɴᴇᴠᴇʀ ᴅɪᴇ © ᴀʟᴘʜᴀv4 ʙᴏᴛ 🌏 </>"
        },
         "USER_NAME": {
             "description": "Enter your name here.",
@@ -124,7 +124,7 @@
         "BOT_NAME": {
             "description": "Customizable BOT NAME! Type a Name for your bot.",
             "required": false,
-            "value": "≪━─━─━─━─☢️─━─━─━─━≫\n          *🍁 Ａｌｐｈａ-Ｘ 🍁*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
+            "value": "≪━─━─━─━─☢️─━─━─━─━≫\n          *🍁 Ａｌｐｈａ-v4 🍁*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
        },
         "WELCOME_GIF": {
             "description": "Customizable Welcome Message GIF! Type a link of gif.",
