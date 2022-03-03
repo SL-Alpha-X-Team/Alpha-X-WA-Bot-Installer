@@ -1,5 +1,5 @@
 {
-    "name": "Alpha-X Whatsapp User Bot", 
+    "name": "Alpha-X-Whatsapp-User-Bot", 
     "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
     "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
@@ -15,7 +15,7 @@
         "XTEAM_API_KEY": {
             "description": "Xteam API key get it using >> xteam.xyz",
             "required": true,
-            "value": "ᴜsᴇ ᴍʏ ᴏɴᴇ ɪғ ʏᴏᴜ ᴄᴀɴᴛ ɢᴇᴛ ᴀᴘɪ 👀 :- `085022649d92d436`"
+            "value": "085022649d92d436"
         },
         "SUDO": {
             "description": "Sudo mode is gives other controler for your bot , Leave it blank if you'r not using it , Number must be Like 94XXXXXXX,0",
@@ -34,7 +34,7 @@
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "👾 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟᴘʜᴀ-x-ᴡᴀ-ʙᴏᴛ ©"
+            "value": "🛸 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟᴘʜᴀ-x-ᴡᴀ-ʙᴏᴛ © 2022 🔧"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
@@ -49,12 +49,12 @@
         "COMMAND_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with commands.",
             "required": false,
-            "value": "🎑️"
+            "value": "⚡"
         },
         "DESC_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with discriptions.",
             "required": false,
-            "value": "🎮"
+            "value": "🛸"
         },
         "WARN_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with warnings.",
@@ -72,7 +72,7 @@
             "value": "alive"
         },
         "ALIVE_PIC": {
-            "description": "Customizable ALIVE PICTURE Photo! Type a link of image.",
+            "description": "Customizable ALIVE PICTURE Photo! Type a link of image. Type pp if you want to send your profile picture",
             "required": false,
             "value": "https://telegra.ph/file/dc8e4edc7230cedbdec2c.jpg"
         },
@@ -94,7 +94,7 @@
         "DOWNLOAD_SONG": {
             "description": "Customizable downloading song Message!.",
             "required": false,
-            "value": "*🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 🧩"
+            "value": "*〘⬇️〙🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...*"
        },
         "DOWNLOAD_SONG_PIC": {
             "description": "Customizable downloading song Message PICTURE! tipe a link of a pic.",
@@ -104,17 +104,17 @@
         "UPLOAD_SONG": {
             "description": "Customizable uploading song Message!.",
             "required": false,
-            "value": "*🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...* 🎲"
+            "value": "*〘⬆️〙🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ...*"
        },
         "DOWNLOAD_VIDEO": {
             "description": "Customizable downloading yt video Message!.",
             "required": false,
-            "value": "*🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 🧩"
+            "value": "*〘⬇️〙🄳ᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...*"
        },
         "UPLOAD_VIDEO": {
             "description": "Customizable uploading yt video Message!.",
             "required": false,
-            "value": "*🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...* 🎲"
+            "value": "*〘⬆️〙🅄ᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...*"
        },
         "DOWNLOAD_VIDEO_PIC": {
             "description": "Customizable downloading video Message PICTURE! tipe a link of a pic.",
@@ -124,7 +124,7 @@
         "BOT_NAME": {
             "description": "Customizable BOT NAME! Type a Name for your bot.",
             "required": false,
-            "value": "≪━─━─━─━─☢️─━─━─━─━≫\n          *🍁 Ａｌｐｈａ-Ｘ 🍁*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
+            "value": " *🔥 Ａｌｐｈａ-Ｘ-WA-Bot 🔥* "
        },
         "WELCOME_GIF": {
             "description": "Customizable Welcome Message GIF! Type a link of gif.",
