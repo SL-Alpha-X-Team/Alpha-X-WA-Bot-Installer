@@ -24,7 +24,7 @@
         "BGM": {
             "description": "🎵 Bot auto sticker/audio reply, Type `audio` if you want to send only audio & type `sticker` if you want to send only stickers. | Type `true` for send both.",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "LANGUAGE": {
             "description": "Bot language - English => EN , Sinhala=> SI , Kannada => KN , Turkish => TR , Malayalam => ML , Russian => RU , Azerbaijian => AZ , Hindi => HI [ More Languages coming soon.. ]",
