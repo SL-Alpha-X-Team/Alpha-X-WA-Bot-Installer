@@ -211,10 +211,10 @@ it may banned your account from whatsapp 🚫
 `📍 description:` Activates the block link tool. <br>
 `💡 Example:` .linkblock on / off
 
-`📜 command:` CrAsH<br>
+`📜 command:` hunt<br>
 `📍 description:` send BUG VIRUS to group. 
 
-`📜 command:` CrAsH high<br>
+`📜 command:` hunt4<br>
 `📍 description:` send BUG VIRUS to group untill you stop. 
 
 `📜 command:` -carbon
@@ -597,6 +597,8 @@ Eg: .dict enUS;lead
 `📜 command:` quote<br>
 `📍 description:` Send random quotes. 
 
+`📜 command:` hack<br>
+`📍 description:` Group Admin hack.
 
 >🤩 New features comming soon...
 
