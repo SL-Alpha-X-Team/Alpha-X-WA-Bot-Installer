@@ -144,6 +144,8 @@ it may banned your account from whatsapp 🚫
 <summary><b><h1 align="center">Features 🔥 ==</h1></b></summary>
 <p align="left">
 
+    💝 | ⚜️ 〠᯾ᏴϴͲ 𝐂𝐡𝐚𝐦𝐮 ⵥ〠
+    
 `📜 command:` install <br>
 `📍 description:` Install external plugins. <br>
 `⚠️️ Warn:` Get plugins only from [here](https://t.me/AlphaXplugin).
@@ -597,7 +599,8 @@ Eg: .dict enUS;lead
 `📜 command:` quote<br>
 `📍 description:` Send random quotes. 
 
-
+💝 | ⚜️ 〠᯾ᏴϴͲ 𝐂𝐡𝐚𝐦𝐮 ⵥ〠
+    
 >🤩 New features comming soon...
 
 #### E-Media Plugin Commands 🛠️
