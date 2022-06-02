@@ -100,7 +100,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ### `• Deploy To Heroku 🚀`
 
 # fork this repo `if it doesn't working` and make installer your self then deploy 🔩️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X/Alpha-X-WA-Bot-Installer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tharumin/Alpha-X-WA-Bot-Installer)
 
 > Click the logo to watch Bot tutorial video ✅
 
