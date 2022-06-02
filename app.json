@@ -11,6 +11,7 @@
         "_ALPHA_SESSION": {
             "description": "Type here your QR code. Get it using >> https://replit.com/@AlphaXteam",
             "required": true
+            "value": "Alpha;;;eyJjbGllbnRJRCI6IlJKQXN4U2ltRzNjZHNwR3VWR0IreGc9PSIsInNlcnZlclRva2VuIjoiMUBjekp0bmpDVDNtYWlySVU3RE9ZelErZjZyRXZHdnBjc283Z25vc09OZjFTUkgrbHU2SzBrVmFLMGowbnEvMFk0Vk1DWWI0eGdsbXQzcmc9PSIsImNsaWVudFRva2VuIjoic1hON2kyUGczNkpibERKZ1lic2RkSi93UklxbFhsN2cvK3lmQ1U1ZzJoMD0iLCJlbmNLZXkiOiJHWGRZbFlaVlcxS3luVWI4ZlR0Wmh5US9TdlAwbGJGUzNIdVBOLzVjeGs4PSIsIm1hY0tleSI6IjJiLzU5VWhMd25SbjRKZElYTmpYNGtKQXFMMnltVDZpWXY4ZHh0eGxFV2c9In0="
         },
         "XTEAM_API_KEY": {
             "description": "Xteam API key get it using >> xteam.xyz",
@@ -209,7 +210,7 @@
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
             "required": true,
-            "value": ""
+            "value": "d092e7bf-0a5e-4828-855d-fb725e445994"
         },
         "MUTE_MESSAGE": {
             "description": "Customizable Mute Message! Use => default, to change back.",
